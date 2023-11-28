@@ -1,5 +1,4 @@
 title: Sierra Stevenson
-description: A project about __
-logo: /assets/IMG/template_logo.png
-show_downloads: true
+description: Signal Quality Prediction with Ionosphere Dataset
+show_downloads: false
 theme: jekyll-theme-cayman

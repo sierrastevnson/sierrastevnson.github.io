@@ -21,7 +21,7 @@ $$
 
 where $T$ is the pulse repetition period, $k$ is the pulse number from 0 to 16, and $\overline{C}$ is the complex conjugate of $C$.
 
-Because the signal is complex, the autocorrelation function is also complex. The dataset consists of 17 pairs of numbers; 17 corresponding real and imaginary components of the autocorrelation function.
+Because the signal is complex, the autocorrelation function is also complex. The dataset consists of 17 pairs of numbers; 17 corresponding real and imaginary components of the autocorrelation function. In signal processing, a real part of a received signal corresponds to the component of the signal that lies in-phase with the reference signal (in our case, the original pulse) and the imaginary component lies orthogonal to it.
 Prior to the publication, filtering out noisy signals was a labor-intensive task for researchers, but the use of machine learning allows for the process to be automated with high accuracy. The paper compared single- and multi-layered feedforward neural networks to produce their results.
 
 ### Project Overview

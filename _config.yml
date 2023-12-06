@@ -2,3 +2,6 @@ title: Sierra Stevenson
 description: Signal Quality Prediction with Ionosphere Dataset
 show_downloads: false
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+    math_engine: katex

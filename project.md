@@ -16,7 +16,7 @@ We did this to solve the problem. We concluded that...
 
 Here is an overview of the dataset, how it was obtained and the preprocessing steps taken, with some plots!
 
-![](assets/IMG/datapenguin.png){: width="500" }
+![](figs/PCA.png){: width="500" }
 
 *Figure 1: Here is a caption for my diagram. This one shows a pengiun [1].*
 
@@ -52,6 +52,8 @@ Here is a brief summary. From this work, the following conclusions can be made:
 * second conclusion
 
 Here is how this work could be developed further in a future project.
+
+
 
 ## References
 [1] DALL-E 3

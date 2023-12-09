@@ -1,4 +1,3 @@
-# Signal Quality Prediction with Ionosphere Dataset
 Final project for AOS C204 by Sierra Stevenson.
 
 ## Introduction

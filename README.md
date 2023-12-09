@@ -1,4 +1,4 @@
-# Final Project: Ionosphere
+# Sierra Stevenson
 # Introduction
 <img src="https://cdn.britannica.com/46/109746-050-9511BBEF/differences-layers-ionosphere-Earth.jpg" align="right" alt="Encyclopædia Britannica, Inc." width="40%"/>
 The ionosphere is the layer of the Earth's atmosphere with a significant concentration of particles charged via radiation, particularly from the sun. Shortwave (high frequency) radio waves emitted from the Earth are reflected by the charged ions and electrions within the ionosphere back towards the Earth, rather than be sent out to space.
@@ -183,3 +183,6 @@ In summary, none of my models were able to outperform the multilayer neural netw
 # References
 McElroy, Michael B.. "ionosphere and magnetosphere". Encyclopedia Britannica, 24 Apr. 2023, https://www.britannica.com/science/ionosphere-and-magnetosphere. Accessed 8 December 2023.
 Sigillito,V., Wing,S., Hutton,L., and Baker,K.. (1989). Ionosphere. UCI Machine Learning Repository. https://doi.org/10.24432/C5W01B.
+
+
+This project was completed by Sierra Stevenson for AOS C204 at UCLA.

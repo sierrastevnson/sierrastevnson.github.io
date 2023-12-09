@@ -1,4 +1,5 @@
-# Sierra Stevenson: Final Project
+# Signal Quality Prediction with Ionosphere Dataset
+Sierra Stevenson
 ## Introduction
 <img src="https://cdn.britannica.com/46/109746-050-9511BBEF/differences-layers-ionosphere-Earth.jpg" align="right" alt="Encyclopædia Britannica, Inc." width="40%"/>
 The ionosphere is the layer of the Earth's atmosphere with a significant concentration of particles charged via radiation, particularly from the sun. Shortwave (high frequency) radio waves emitted from the Earth are reflected by the charged ions and electrions within the ionosphere back towards the Earth, rather than be sent out to space.

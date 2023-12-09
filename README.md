@@ -177,7 +177,7 @@ A summary of the results is below, with the model types implemented in Sigillito
 |-----------------------------	|---------------------------	|---	|---------------------	|---------------	|---------------	|------------------------	|
 | 92%                         	| 98%                       	| — 	| 88.73%              	| 93.0%         	| 96.8%         	| 91.5%                  	|
 
-In summary, none of my models were able to outperform the multilayer neural network from the paper, but I was able to outperform the single-layer neural network using a random forest classifier optimized using scikit-learn's `GridSearchCV`, a cross-validation tool that resamples from the training set to find the optimal set of parameters.
+In summary, none of my models were able to outperform the multilayer neural network from the paper, but I was able to outperform the single-layer neural network using a random forest classifier optimized using scikit-learn's `GridSearchCV`, a cross-validation tool that resamples from the training set to find the optimal set of parameters. In the future, applying a neural network directly and modifying the parameters would make for an interesting comparison, especially given that the paper was written in 1989. Modern libraries may provide more tools allowing for an even greater accuracy.
 
 # References
 McElroy, Michael B.. "ionosphere and magnetosphere". Encyclopedia Britannica, 24 Apr. 2023, https://www.britannica.com/science/ionosphere-and-magnetosphere. Accessed 8 December 2023.

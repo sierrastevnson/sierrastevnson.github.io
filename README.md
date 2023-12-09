@@ -6,7 +6,7 @@ I retrieved data from the UC Irvine Machine Learning Repository at [this link](h
 
 The paper behind the dataset, [Sigillito et al. (1989)](https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V10-N03/10-03-Sigillito_Class.pdf), uses the following equations to denote the received signal at time t, C(t), and the autocorrelation function R(t,k) as:
 
-1[](assets/latex.png)
+![](assets/latex.png)
 
 where T is the pulse repetition period, k is the pulse number from 0 to 16, and C‾ is the complex conjugate of $C$.
 

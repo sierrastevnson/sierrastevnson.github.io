@@ -1,4 +1,4 @@
-Final project for AOS C204 by Sierra Stevenson.
+# Final project for AOS C204 by Sierra Stevenson.
 
 ## Introduction
 <img src="https://cdn.britannica.com/46/109746-050-9511BBEF/differences-layers-ionosphere-Earth.jpg" align="right" alt="Encyclopædia Britannica, Inc." width="40%"/>
